@@ -1,0 +1,26 @@
+h{
+  color: blue;
+}
+div{
+  background-color: yellow;
+}
+form{
+  background-color: purple;
+}
+p{
+  background-color: purple;
+}
+body{
+  background-color: violet;
+}
+button{
+  background-color: violet;
+}
+li{
+  background-color: green;
+}
+.topnav li{
+  float: right;
+  padding: 16px 16px;
+  font-size: 20px;
+}
